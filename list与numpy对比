@@ -1,0 +1,8 @@
+python_list = [1,2,3]
+numpy_array = np.array([1,2,3])
+result = python_list + python_list
+print(result)
+[out][1,2,3,1,2,3]
+final = numpy_array + numpy_array
+print(final)
+[out][2,4,6]
